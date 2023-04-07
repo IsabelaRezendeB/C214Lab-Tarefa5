@@ -4,6 +4,17 @@
 
 Esse repositório consiste na implementação de APIs REST de um CRUD básico de filme. 
 
+## Rotas
+
+1. POST \
+    filme/create
+2. PUT\
+    filme/create
+3. GET\
+    filme/create
+4. DELETE\
+    filme/create
+
 ## Requisitos
 1. Instalar o [Node.JS](https://nodejs.org/en/download/).
 2. Utilizei o [Visual Studio Code](https://code.visualstudio.com/) mas também é possível utilizar outro editor de sua preferência.
