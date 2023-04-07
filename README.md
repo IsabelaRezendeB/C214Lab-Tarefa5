@@ -9,11 +9,11 @@ Esse repositório consiste na implementação de APIs REST de um CRUD básico de
 1. POST \
     filme/create
 2. PUT\
-    filme/create
+    filme/update
 3. GET\
-    filme/create
+    filme/list
 4. DELETE\
-    filme/create
+    filme/delete
 
 ## Requisitos
 1. Instalar o [Node.JS](https://nodejs.org/en/download/).
