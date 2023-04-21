@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // substituir pelo seu link
-const uri = `mongodb+srv://user:<password>@cluster0.hgbrisq.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://isabela:senha123@cluster0.hgbrisq.mongodb.net/?retryWrites=true&w=majority`;
 
 mongoose.set("strictQuery", true);
 
