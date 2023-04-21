@@ -38,3 +38,7 @@ Esse repositório consiste na implementação de APIs REST de um CRUD básico de
     ```
     npm start
     ```
+5. Para rodar os testes:
+    ```
+    npm test
+    ```
